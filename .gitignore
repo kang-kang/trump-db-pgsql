@@ -1,0 +1,11 @@
+ld
+*.sw[po]
+__pycache__
+.idea
+*.log
+
+/dist
+/*.egg-info
+*.pyc
+/build/
+_build
